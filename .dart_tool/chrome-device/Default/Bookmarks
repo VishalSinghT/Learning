@@ -1,0 +1,228 @@
+{
+   "checksum": "a672213926f74452da1af79c60f8d133",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13286815183166469",
+            "date_last_used": "0",
+            "guid": "3f6b206d-4182-49a5-8fdd-0a46d5f0b3b9",
+            "id": "6",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13286815183235948",
+            "date_last_used": "0",
+            "guid": "f9d9814a-cfe9-49c0-8a17-ed96f236c556",
+            "id": "7",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13286815183240153",
+            "date_last_used": "0",
+            "guid": "17e7457c-ae63-4359-a7c9-d82b02f31af1",
+            "id": "8",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13286815188172038",
+            "date_last_used": "0",
+            "guid": "9ab2c2cd-4fdc-46bc-938a-c4ce056a28f8",
+            "id": "9",
+            "name": "News",
+            "type": "url",
+            "url": "https://news.google.com/"
+         }, {
+            "date_added": "13276879851874613",
+            "date_last_used": "0",
+            "guid": "5b6c846b-ff9c-4e67-9569-d66150f427e8",
+            "id": "10",
+            "name": "Meet",
+            "type": "url",
+            "url": "https://meet.google.com/ubk-opyi-but"
+         }, {
+            "date_added": "13287260649695950",
+            "date_last_used": "0",
+            "guid": "6c4d3214-d14e-4b91-bc23-19277ba17f1e",
+            "id": "11",
+            "name": "Monkeytype",
+            "type": "url",
+            "url": "https://monkeytype.com/"
+         }, {
+            "date_added": "13287264952600093",
+            "date_last_used": "0",
+            "guid": "488d9bb8-aa63-40b5-ae68-ad4a7eaf4bcc",
+            "id": "12",
+            "name": "Coding Ninjas",
+            "type": "url",
+            "url": "https://classroom.codingninjas.com/app/classroom/batch/6632/contents/topics"
+         }, {
+            "date_added": "13287265008430830",
+            "date_last_used": "0",
+            "guid": "1f852a75-90f8-4b83-8396-4f3802767680",
+            "id": "13",
+            "name": "FutureSkills Prime - A MeitY-NASSCOM Digital Initiative",
+            "type": "url",
+            "url": "https://futureskillsprime.in/"
+         }, {
+            "date_added": "13287265063500401",
+            "date_last_used": "0",
+            "guid": "df768947-79e6-4c54-8d05-fb564952aed2",
+            "id": "14",
+            "name": "Tutorials List - Javatpoint",
+            "type": "url",
+            "url": "https://www.javatpoint.com/"
+         }, {
+            "date_added": "13291586062590270",
+            "date_last_used": "0",
+            "guid": "11189fcd-7646-491c-8c74-6be612e749bb",
+            "id": "15",
+            "name": "(99+) LinkedIn",
+            "type": "url",
+            "url": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhr.gs%2F1vbe"
+         }, {
+            "date_added": "13308989126314052",
+            "date_last_used": "0",
+            "guid": "9d18434e-c363-4d2f-8b5f-73cd436e33f0",
+            "id": "16",
+            "name": "Best Data Structures & Algorithms (DSA) Course - Clear Any FAANG Interview! - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
+         }, {
+            "date_added": "13310374695664809",
+            "date_last_used": "0",
+            "guid": "f06550f4-f5e5-4ea6-96e1-82cfa90f41c8",
+            "id": "17",
+            "name": " Apna college",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=OSoO8eCEEC8&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop&index=15"
+         }, {
+            "date_added": "13310635886434691",
+            "date_last_used": "0",
+            "guid": "b88d323b-256d-45f7-af48-d0208b6647f2",
+            "id": "18",
+            "name": "Free Basic Python Course Certification | LearnTube by CareerNinja",
+            "type": "url",
+            "url": "https://learntube.ai/business-courses"
+         }, {
+            "date_added": "13328274283385271",
+            "date_last_used": "0",
+            "guid": "1f9636b4-3218-4a04-9f70-0fd48fcd4e6d",
+            "id": "19",
+            "name": "Easy to use Online PDF editor",
+            "type": "url",
+            "url": "https://www.sejda.com/pdf-editor"
+         }, {
+            "date_added": "13314140681991594",
+            "date_last_used": "0",
+            "guid": "bdfda0e6-5260-45f2-8c15-6a583cc89512",
+            "id": "20",
+            "name": "Android Projects with Source Code | Projectworlds",
+            "type": "url",
+            "url": "https://projectworlds.in/android-projects-with-source-code/"
+         }, {
+            "date_added": "13322838381253430",
+            "date_last_used": "0",
+            "guid": "8d6cafaf-1747-40ea-8b96-36e5e143b061",
+            "id": "21",
+            "name": "(21) Day 1 - Flutter Installation & First App | #30DaysOfFlutter - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=4JMnuaDjP8E&list=PLrjrqTcKCnhTXI2GyPkaQF47inLp6LoIC&index=1"
+         }, {
+            "date_added": "13316295786066979",
+            "date_last_used": "0",
+            "guid": "1f276777-ffe8-4f34-a21c-25b433ee0344",
+            "id": "22",
+            "name": "Problems - LeetCode",
+            "type": "url",
+            "url": "https://leetcode.com/problemset/all/"
+         }, {
+            "date_added": "13317644305788544",
+            "date_last_used": "0",
+            "guid": "89cc1bfd-4740-4417-b6e2-cd80730fea90",
+            "id": "23",
+            "name": "Thank you for participating in",
+            "type": "url",
+            "url": "https://assessment.hackerearth.com/challenges/college/technocrats-institute-of-technology-test-draft-21-3/feedback/"
+         }, {
+            "date_added": "13317742659057005",
+            "date_last_used": "0",
+            "guid": "52485a4e-6096-4136-b817-9642f8323b36",
+            "id": "24",
+            "name": "(138) Shiv Tandav Stotram | रावण रचित शिव तांडव स्तोत्रम् | (HIGH QUALITY Lofi) 🎧 3D 🎧Surround Music 🎧 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=pZY_R_5romM"
+         }, {
+            "date_added": "13318148962919559",
+            "date_last_used": "0",
+            "guid": "a81db7aa-8f17-475e-9ada-0c16033abcb3",
+            "id": "25",
+            "name": "Live Classes",
+            "type": "url",
+            "url": "https://web.careerwill.com/auth/batch"
+         }, {
+            "date_added": "13321379400626404",
+            "date_last_used": "0",
+            "guid": "8dc96df7-ba01-4e9c-b32c-657801b9d46d",
+            "id": "26",
+            "name": "Text2SQL.AI - Generate SQL queries with AI for free!",
+            "type": "url",
+            "url": "https://www.text2sql.ai/app"
+         }, {
+            "date_added": "13325331922011396",
+            "date_last_used": "0",
+            "guid": "4abdd23c-38d5-4880-a52c-c91045545bb0",
+            "id": "27",
+            "name": "Yakeen 2.0 2023 - Physics Wallah",
+            "type": "url",
+            "url": "https://www.pw.live/study/batches/yakeen-2-0-2023-387343/subjects/botany--vidyapeeth-stars--988888/subject-details/all/batch-video-player?scheduleId=62e128d5efda5c0018b60fe2&dRoom=62dfb1edcfa8b00011e49c56&batchSubjectId=62d9839121098d00117fb451"
+         }, {
+            "date_added": "13325457567709012",
+            "date_last_used": "0",
+            "guid": "e2cb3bf1-de02-4ff1-ab40-04d3b1b7a55a",
+            "id": "28",
+            "name": "(113) Chat App Flutter - Search Screen For Finding Users with Flutter & Firebase | Ep : 2 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=SyE_hgydvvQ&list=PLgvaMOCkUA6zqL46Yze3JrRjsFXUiV-2v&index=2"
+         }, {
+            "date_added": "13327491996277570",
+            "date_last_used": "0",
+            "guid": "0b24a411-5d72-4881-9112-b5b39e53e00e",
+            "id": "29",
+            "name": "Microsoft Word - AIML VI sem syllabus",
+            "type": "url",
+            "url": "file:///C:/Users/lukma/OneDrive/Desktop/NOTES/syllabus%206th%20sem.pdf"
+         } ],
+         "date_added": "13332675537142355",
+         "date_last_used": "0",
+         "date_modified": "13328274283385271",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13332675537142359",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13332675537142363",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
